@@ -1,0 +1,91 @@
+html {
+    color: rgb(108, 86, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+}
+body {
+    margin: 10rem;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+h2 {
+    font-size: 40px;
+    margin-top: -.5rem;
+}
+h3 {
+    font-size: 30px;
+    margin-top: 1rem;
+}
+h4 {
+    font-size: 20px;
+    margin-top: 1rem;
+}
+p {
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.light{
+    font-weight:300;
+    color: rgb(0, 99, 205);
+}
+.regular{
+    font-weight:400;
+    color: rgb(0, 79, 164);
+}
+.medium{
+    font-weight:500;
+    color: rgb(0, 62, 128);
+}
+.bold{
+    font-weight:700;
+    color: rgb(1, 25, 52);
+}
+.normal{
+    font-weight:400px;
+    color: rgb(0, 99, 205);
+}
+.italic{
+    font-style:italic;
+    color: rgb(0, 79, 164);
+}
+.bigger-letter-spacing{
+    letter-spacing:0.3em;
+    color: rgb(0, 79, 164);
+}
+.smaller-letter-spacing{
+    letter-spacing:-0.1em;
+    color: rgb(1, 25, 52);
+}
+.underline{
+    text-decoration:underline;
+    color: rgb(0, 79, 164);
+}
+.through{
+    text-decoration:line-through;
+    color: rgb(0, 62, 128);
+}
+.overline{
+    text-decoration:overline;
+    color: rgb(1, 25, 52);
+}
+.uppercase{
+    text-transform: uppercase;
+    color: rgb(0, 79, 164);
+}
+.lowercase{
+    text-transform: lowercase;
+    color: rgb(0, 62, 128);
+}
+.capitalize{
+    text-transform: capitalize;
+    color: rgb(1, 25, 52);
+}
