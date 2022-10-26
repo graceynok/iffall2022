@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/8d/1f/7e/8d1f7e3f942adac821a6ead15f2a7a48.jpg);
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+h1 {
+    font-size:45px;
+}
+h2 {
+    font-size:20px;
+}
+h3 {
+    font-size:20px;
+}
+p {
+    font-size:12px;
+}

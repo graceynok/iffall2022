@@ -1,0 +1,69 @@
+html {
+    color: rgb(0, 123, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+  }
+
+  body{
+    margin: 10%;
+  }
+
+  h1 {
+    color: rgb(247, 68, 98);
+    letter-spacing: -0.02em;
+    text-transform: capitalize;
+    text-indent: -1rem;
+    font-family: vista-slab, serif;
+  }
+
+  p {
+    font-size: 13pt;
+    line-height: 1.4;
+  }
+
+  sup {
+    font-size: 60%;
+  }
+
+  dfn {
+    font-weight: bold;
+  }
+
+  small {
+    font-style: italic;
+  }
+
+  aside {
+    text-align: center;
+  }
+
+  cite {
+    text-align: right;
+    display: block;
+  }
+
+  article {
+    margin: 6rem 0;
+  }
+
+  section {
+    margin: 2.5em 0;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  dfn {
+    text-transform: lowercase;
+  }
+
+  code {
+    color:rgb(255, 145, 49)
+  }
+
+  .fa-solid {
+    font-size: .8em;
+    color: rgb(14, 232, 14)
+  }

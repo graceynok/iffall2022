@@ -1,0 +1,68 @@
+html{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color:#FFF6DE
+}
+#pasta1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+#ingred{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+#instruct{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+strong{
+    font-weight: 600;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.checked {
+    color: rgb(253, 186, 61);
+}
+
+.box-border {
+    border: 8px solid #FFE8AC;
+}
+
+#box {
+    background-color: #FFE8AC;
+}
+
+h1 {
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.3rem;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
