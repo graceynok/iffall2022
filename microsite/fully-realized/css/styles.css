@@ -140,3 +140,7 @@ footer a {
     margin-right: 30px;
     margin-left: 40px; 
 } 
+
+.navulfooter {
+    list-style: none;
+}
